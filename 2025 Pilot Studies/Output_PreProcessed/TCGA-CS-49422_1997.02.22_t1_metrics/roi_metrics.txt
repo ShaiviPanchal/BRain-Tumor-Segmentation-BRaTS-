@@ -1,0 +1,14 @@
+Tumor: mean=182.352, std=50.417
+White Matter: mean=73.577, std=92.156
+Gray Matter: mean=178.723, std=63.825
+Background: mean=180.485, std=52.647
+
+SNR:
+ROI 1: 3.617
+ROI 2: 0.798
+ROI 3: 2.800
+
+CNR:
+1.526
+0.064
+1.348

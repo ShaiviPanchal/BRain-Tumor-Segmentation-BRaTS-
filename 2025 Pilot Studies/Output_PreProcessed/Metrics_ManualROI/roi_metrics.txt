@@ -1,0 +1,18 @@
+Tumor: mean=0.000, std=0.000
+White Matter: mean=0.000, std=0.000
+Gray Matter: mean=0.000, std=0.000
+Background: mean=0.000, std=0.000
+
+SNR:
+Tumor: 0.000
+White Matter: 0.000
+Gray Matter: 0.000
+Background: 0.000
+
+CNR:
+Tumor vs White Matter: 0.000
+Tumor vs Gray Matter: 0.000
+Tumor vs Background: 0.000
+White Matter vs Gray Matter: 0.000
+White Matter vs Background: 0.000
+Gray Matter vs Background: 0.000
